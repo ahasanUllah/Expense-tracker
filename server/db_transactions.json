@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "name": "Shopping",
+      "type": "expense",
+      "amount": "5000",
+      "id": 2
+    },
+    {
+      "name": "Salary From microsoft",
+      "type": "income",
+      "amount": 10000,
+      "id": 3
+    },
+    {
+      "name": "Salary From Facebook",
+      "type": "income",
+      "amount": 10000,
+      "id": 4
+    },
+    {
+      "name": "Medicine",
+      "type": "expense",
+      "amount": "4000",
+      "id": 5
+    }
+  ]
+}
